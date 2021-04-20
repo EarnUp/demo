@@ -2,214 +2,202 @@
   "loans":
   [
     {
-      "loanId": "092BEDCD-6364-17F6-7629-2465C3ED1089",
-      "monthlyPaymentAmount": 622,
-      "paymentDueDay": 21,
-      "scheduleType": "monthly",
-      "debitStartDate": "2021-08-31T06:33:43-07:00"
-    },
-    {
-      "loanId": "0DBE8ED8-DF44-E85C-1E6F-C3AD315503AB",
-      "monthlyPaymentAmount": 822,
-      "paymentDueDay": 9,
-      "scheduleType": "monthly",
-      "debitStartDate": "2021-05-01T08:20:15-07:00"
-    },
-    {
-      "loanId": "DBDD81D2-B818-E067-91D9-C8B8D05C39D2",
-      "monthlyPaymentAmount": 768,
-      "paymentDueDay": 7,
-      "scheduleType": "monthly",
-      "debitStartDate": "2021-09-04T12:59:12-07:00"
-    },
-    {
-      "loanId": "09E8E4A6-7F62-716E-A3A1-BAA0AFFEC44E",
-      "monthlyPaymentAmount": 542,
-      "paymentDueDay": 23,
-      "scheduleType": "weekly",
-      "debitStartDate": "2021-08-25T01:50:39-07:00"
-    },
-    {
-      "loanId": "5122882A-2469-EFF0-281C-B0991187FDF6",
-      "monthlyPaymentAmount": 804,
-      "paymentDueDay": 19,
-      "scheduleType": "weekly",
-      "debitStartDate": "2021-07-08T03:47:01-07:00"
-    },
-    {
-      "loanId": "D2DE42D4-5C53-F106-149E-0B705BEA1F12",
-      "monthlyPaymentAmount": 699,
-      "paymentDueDay": 1,
-      "scheduleType": "weekly",
-      "debitStartDate": "2021-07-12T02:44:45-07:00"
-    },
-    {
-      "loanId": "79158793-A30A-69B7-9261-702DAA8A25EF",
-      "monthlyPaymentAmount": 513,
-      "paymentDueDay": 30,
-      "scheduleType": "weekly",
-      "debitStartDate": "2021-05-23T22:11:47-07:00"
-    },
-    {
-      "loanId": "4C53C9DA-5CB5-C5A2-AB82-83B7B024CBFE",
-      "monthlyPaymentAmount": 626,
-      "paymentDueDay": 8,
-      "scheduleType": "weekly",
-      "debitStartDate": "2021-06-02T19:20:34-07:00"
-    },
-    {
-      "loanId": "AFEBA22C-14B9-5F71-8166-E02B8162A4F7",
-      "monthlyPaymentAmount": 704,
-      "paymentDueDay": 26,
-      "scheduleType": "monthly",
-      "debitStartDate": "2021-09-01T14:46:43-07:00"
-    },
-    {
-      "loanId": "60A588A3-7311-AFFE-9A56-6871533A696E",
-      "monthlyPaymentAmount": 864,
+      "id": "1E76200F-36E6-A447-01A0-11D42A80180C",
+      "monthlyPaymentAmount": 384,
       "paymentDueDay": 5,
-      "scheduleType": "monthly",
-      "debitStartDate": "2021-07-31T17:53:42-07:00"
+      "scheduleType": "semimonthly",
+      "debitStartDate": "06/01/2021",
+      "daysOfMonth": [1,15],
+      "debitFrequency": ""
     },
     {
-      "loanId": "B89E7F08-DB43-8DE0-6664-91CBF5CC3E2A",
-      "monthlyPaymentAmount": 580,
-      "paymentDueDay": 28,
-      "scheduleType": "monthly",
-      "debitStartDate": "2021-09-17T00:29:46-07:00"
+      "id": "D8445E91-2F2A-B36A-4302-8115F03F8BB7",
+      "monthlyPaymentAmount": 492,
+      "paymentDueDay": 30,
+      "scheduleType": "biweekly",
+      "debitStartDate": "09/14/2021",
+      "daysOfMonth": [],
+      "debitFrequency": "tuesday"
     },
     {
-      "loanId": "A6323F60-4AB7-EF0D-F619-4A9ED8EF91AE",
-      "monthlyPaymentAmount": 477,
-      "paymentDueDay": 10,
-      "scheduleType": "monthly",
-      "debitStartDate": "2021-05-05T07:07:53-07:00"
+      "id": "777D7079-514B-2710-693D-BE6F6E377806",
+      "monthlyPaymentAmount": 725,
+      "paymentDueDay": 30,
+      "scheduleType": "semimonthly",
+      "debitStartDate": "06/14/2021",
+      "daysOfMonth": [14, 22],
+      "debitFrequency": ""
     },
     {
-      "loanId": "6A9966AB-C598-5017-BED4-FDBA0FC96A3A",
-      "monthlyPaymentAmount": 394,
-      "paymentDueDay": 15,
-      "scheduleType": "weekly",
-      "debitStartDate": "2021-08-02T00:59:21-07:00"
+      "id": "08E03540-329C-0C19-263B-0D482269D60C",
+      "monthlyPaymentAmount": 635,
+      "paymentDueDay": 29,
+      "scheduleType": "biweekly",
+      "debitStartDate": "09/9/2021",
+      "daysOfMonth": [],
+      "debitFrequency": "thursday"
     },
     {
-      "loanId": "FA8EE6E5-FD19-8FB2-F20F-BE4BA5C4C418",
-      "monthlyPaymentAmount": 611,
-      "paymentDueDay": 4,
-      "scheduleType": "weekly",
-      "debitStartDate": "2021-06-12T22:02:28-07:00"
-    },
-    {
-      "loanId": "1D6D56A3-6085-3B72-1676-1F8114334C26",
-      "monthlyPaymentAmount": 313,
-      "paymentDueDay": 25,
-      "scheduleType": "weekly",
-      "debitStartDate": "2021-08-17T00:10:36-07:00"
-    },
-    {
-      "loanId": "40DF5766-D0AA-09B9-B99F-84DEE9FDBCFD",
-      "monthlyPaymentAmount": 952,
-      "paymentDueDay": 4,
-      "scheduleType": "weekly",
-      "debitStartDate": "2021-06-28T07:18:11-07:00"
-    },
-    {
-      "loanId": "4AFDFC52-AC65-467C-F17D-59CD1990A3F4",
-      "monthlyPaymentAmount": 738,
-      "paymentDueDay": 22,
-      "scheduleType": "weekly",
-      "debitStartDate": "2021-08-22T08:41:04-07:00"
-    },
-    {
-      "loanId": "1C4AE723-E865-386E-1A78-364264EB4336",
-      "monthlyPaymentAmount": 320,
-      "paymentDueDay": 10,
-      "scheduleType": "monthly",
-      "debitStartDate": "2021-09-20T11:23:20-07:00"
-    },
-    {
-      "loanId": "61BCF635-A61F-F88D-C0EF-5CEE6A8F6920",
-      "monthlyPaymentAmount": 901,
-      "paymentDueDay": 26,
-      "scheduleType": "monthly",
-      "debitStartDate": "2021-06-18T20:30:56-07:00"
-    },
-    {
-      "loanId": "C07880A2-F494-2F00-ADF0-088F8C51BC13",
-      "monthlyPaymentAmount": 471,
-      "paymentDueDay": 26,
-      "scheduleType": "monthly",
-      "debitStartDate": "2021-09-20T07:03:40-07:00"
-    },
-    {
-      "loanId": "138DAD7F-0A74-6C57-5457-091C1F8EAB9D",
-      "monthlyPaymentAmount": 888,
+      "id": "12DC77B2-9639-361C-291C-C7F2D3B04509",
+      "monthlyPaymentAmount": 470,
       "paymentDueDay": 31,
-      "scheduleType": "monthly",
-      "debitStartDate": "2021-07-21T20:50:37-07:00"
+      "scheduleType": "semimonthly",
+      "debitStartDate": "08/06/2021",
+      "daysOfMonth": [6, 26],
+      "debitFrequency": ""
     },
     {
-      "loanId": "FFEC63D8-AAD8-35D4-CD41-FF922F675168",
-      "monthlyPaymentAmount": 337,
-      "paymentDueDay": 22,
-      "scheduleType": "monthly",
-      "debitStartDate": "2021-07-21T06:04:51-07:00"
+      "id": "EE0F0929-8DC4-C744-0D64-5201E5479243",
+      "monthlyPaymentAmount": 711,
+      "paymentDueDay": 27,
+      "scheduleType": "biweekly",
+      "debitStartDate": "08/11/2021",
+      "daysOfMonth": [],
+      "debitFrequency": "wednesday"
     },
     {
-      "loanId": "206AE595-FADF-229C-58FC-8E1454F54E35",
-      "monthlyPaymentAmount": 790,
-      "paymentDueDay": 26,
-      "scheduleType": "weekly",
-      "debitStartDate": "2021-08-02T05:08:11-07:00"
+      "id": "8881BC08-659C-F653-D92E-FFB0FC430F38",
+      "monthlyPaymentAmount": 977,
+      "paymentDueDay": 1,
+      "scheduleType": "semimonthly",
+      "debitStartDate": "09/09/2021",
+      "daysOfMonth": [9, 23],
+      "debitFrequency": ""
     },
     {
-      "loanId": "D5E0FCF8-32EA-2E1F-EAFA-672E95F16E4E",
-      "monthlyPaymentAmount": 681,
+      "id": "8F547AE1-7CD6-77A0-5EA0-DDE0F63C5735",
+      "monthlyPaymentAmount": 616,
       "paymentDueDay": 10,
-      "scheduleType": "weekly",
-      "debitStartDate": "2021-05-09T11:38:27-07:00"
+      "scheduleType": "biweekly",
+      "debitStartDate": "09/03/2021",
+      "daysOfMonth": [],
+      "debitFrequency": "friday"
     },
     {
-      "loanId": "01AEC41C-8F91-591C-F105-8C06D1238580",
-      "monthlyPaymentAmount": 644,
-      "paymentDueDay": 20,
-      "scheduleType": "weekly",
-      "debitStartDate": "2021-07-16T15:01:29-07:00"
+      "id": "4F7B42A8-EC7E-2D03-D75E-A0FC3CC74A11",
+      "monthlyPaymentAmount": 823,
+      "paymentDueDay": 27,
+      "scheduleType": "semimonthly",
+      "debitStartDate": "09/29/2021",
+      "daysOfMonth": [9,29],
+      "debitFrequency": ""
     },
     {
-      "loanId": "8A81F6C6-68CD-ED1B-D14F-C918E78E2131",
-      "monthlyPaymentAmount": 270,
-      "paymentDueDay": 13,
-      "scheduleType": "weekly",
-      "debitStartDate": "2021-07-05T11:45:41-07:00"
+      "id": "1DA3BDF6-576A-C355-6545-D74F55A3B37E",
+      "monthlyPaymentAmount": 352,
+      "paymentDueDay": 3,
+      "scheduleType": "biweekly",
+      "debitStartDate": "08/13/2021",
+      "daysOfMonth": [],
+      "debitFrequency": "friday"
     },
     {
-      "loanId": "2CBAE991-C566-4512-8908-45A03887A447",
-      "monthlyPaymentAmount": 411,
-      "paymentDueDay": 28,
-      "scheduleType": "weekly",
-      "debitStartDate": "2021-05-08T21:17:12-07:00"
+      "id": "D4496366-81F2-5BB2-0EB8-1F2029D0EC6A",
+      "monthlyPaymentAmount": 642,
+      "paymentDueDay": 8,
+      "scheduleType": "semimonthly",
+      "debitStartDate": "09/28/2021",
+      "daysOfMonth": [9, 28],
+      "debitFrequency": ""
     },
     {
-      "loanId": "CA7E7570-411A-2674-49A9-3C62FE0FC949",
-      "monthlyPaymentAmount": 509,
-      "paymentDueDay": 24,
-      "scheduleType": "monthly",
-      "debitStartDate": "2021-05-25T23:32:07-07:00"
+      "id": "326F9C57-FA91-3930-7C21-E4D6B761545B",
+      "monthlyPaymentAmount": 522,
+      "paymentDueDay": 21,
+      "scheduleType": "biweekly",
+      "debitStartDate": "09/07/2021",
+      "daysOfMonth": [],
+      "debitFrequency": "tuesday"
     },
     {
-      "loanId": "CB81F3AC-CDE5-3652-7366-E78B08D181F6",
-      "monthlyPaymentAmount": 370,
-      "paymentDueDay": 20,
-      "scheduleType": "weekly",
-      "debitStartDate": "2021-06-03T14:22:54-07:00"
+      "id": "89203316-6C2D-AB8D-4D58-A0369EC4C72D",
+      "monthlyPaymentAmount": 872,
+      "paymentDueDay": 27,
+      "scheduleType": "semimonthly",
+      "debitStartDate": "06/23/2021",
+      "daysOfMonth": [17,23],
+      "debitFrequency": ""
     },
     {
-      "loanId": "3EB8B3C2-F070-8C31-D66B-FC054ADBCB60",
-      "monthlyPaymentAmount": 821,
-      "paymentDueDay": 20,
-      "scheduleType": "weekly",
-      "debitStartDate": "2021-09-27T04:01:04-07:00"
+      "id": "FC04F152-9179-4416-6598-C870A6C80F46",
+      "monthlyPaymentAmount": 955,
+      "paymentDueDay": 14,
+      "scheduleType": "biweekly",
+      "debitStartDate": "07/13/2021",
+      "daysOfMonth": [],
+      "debitFrequency": "tuesday"
+    },
+    {
+      "id": "E7C59691-542D-8ED5-F2D1-9D96098A6578",
+      "monthlyPaymentAmount": 383,
+      "paymentDueDay": 30,
+      "scheduleType": "semimonthly",
+      "debitStartDate": "06/09/2021",
+      "daysOfMonth": [9,23],
+      "debitFrequency": ""
+    },
+    {
+      "id": "BF53CD0D-EB7E-646F-F180-482E003E6A0A",
+      "monthlyPaymentAmount": 808,
+      "paymentDueDay": 26,
+      "scheduleType": "biweekly",
+      "debitStartDate": "07/12/2021",
+      "daysOfMonth": [],
+      "debitFrequency": "monday"
+    },
+    {
+      "id": "6A7E8E01-3217-4D32-D7CA-A29D0DCDB611",
+      "monthlyPaymentAmount": 250,
+      "paymentDueDay": 27,
+      "scheduleType": "semimonthly",
+      "debitStartDate": "09/01/2021",
+      "daysOfMonth": [1,13],
+      "debitFrequency": ""
+    },
+    {
+      "id": "3F18B9FB-1AA0-D95F-7E75-B5102F7A7EF7",
+      "monthlyPaymentAmount": 818,
+      "paymentDueDay": 23,
+      "scheduleType": "biweekly",
+      "debitStartDate": "06/07/2021",
+      "daysOfMonth": [],
+      "debitFrequency": "monday"
+    },
+    {
+      "id": "C3F03B1E-1DDA-310B-092B-6036EFBE6477",
+      "monthlyPaymentAmount": 903,
+      "paymentDueDay": 15,
+      "scheduleType": "semimonthly",
+      "debitStartDate": "06/08/2021",
+      "daysOfMonth": [8,22],
+      "debitFrequency": ""
+    },
+    {
+      "id": "7B70C36F-8CE7-9F6B-1B25-91AFE40E73F3",
+      "monthlyPaymentAmount": 400,
+      "paymentDueDay": 17,
+      "scheduleType": "biweekly",
+      "debitStartDate": "05/11/2021",
+      "daysOfMonth": [],
+      "debitFrequency": "tuesday"
+    },
+    {
+      "id": "DAC4E893-CA4A-AA37-FE07-0B4A4F59D1DC",
+      "monthlyPaymentAmount": 746,
+      "paymentDueDay": 10,
+      "scheduleType": "semimonthly",
+      "debitStartDate": "08/11/2021",
+      "daysOfMonth": [11,24],
+      "debitFrequency": ""
+    },
+    {
+      "id": "A3FBD42F-CB91-5E82-A8E4-69B485C01BEB",
+      "monthlyPaymentAmount": 300,
+      "paymentDueDay": 30,
+      "scheduleType": "biweekly",
+      "debitStartDate": "06/22/2021",
+      "daysOfMonth": [],
+      "debitFrequency": "tuesday"
     }
   ]
 }
