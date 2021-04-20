@@ -8,7 +8,8 @@
       "scheduleType": "semimonthly",
       "debitStartDate": "06/01/2021",
       "daysOfMonth": [1,15],
-      "debitFrequency": ""
+      "debitFrequency": "",
+      "hasGracePeriod": true
     },
     {
       "id": "D8445E91-2F2A-B36A-4302-8115F03F8BB7",
@@ -17,7 +18,8 @@
       "scheduleType": "biweekly",
       "debitStartDate": "09/14/2021",
       "daysOfMonth": [],
-      "debitFrequency": "tuesday"
+      "debitFrequency": "tuesday",
+      "hasGracePeriod": true
     },
     {
       "id": "777D7079-514B-2710-693D-BE6F6E377806",
@@ -26,7 +28,8 @@
       "scheduleType": "semimonthly",
       "debitStartDate": "06/14/2021",
       "daysOfMonth": [14, 22],
-      "debitFrequency": ""
+      "debitFrequency": "",
+      "hasGracePeriod": true
     },
     {
       "id": "08E03540-329C-0C19-263B-0D482269D60C",
@@ -35,7 +38,8 @@
       "scheduleType": "biweekly",
       "debitStartDate": "09/9/2021",
       "daysOfMonth": [],
-      "debitFrequency": "thursday"
+      "debitFrequency": "thursday",
+      "hasGracePeriod": false
     },
     {
       "id": "12DC77B2-9639-361C-291C-C7F2D3B04509",
@@ -44,7 +48,8 @@
       "scheduleType": "semimonthly",
       "debitStartDate": "08/06/2021",
       "daysOfMonth": [6, 26],
-      "debitFrequency": ""
+      "debitFrequency": "",
+      "hasGracePeriod": true
     },
     {
       "id": "EE0F0929-8DC4-C744-0D64-5201E5479243",
@@ -53,7 +58,8 @@
       "scheduleType": "biweekly",
       "debitStartDate": "08/11/2021",
       "daysOfMonth": [],
-      "debitFrequency": "wednesday"
+      "debitFrequency": "wednesday",
+      "hasGracePeriod": true
     },
     {
       "id": "8881BC08-659C-F653-D92E-FFB0FC430F38",
@@ -62,7 +68,8 @@
       "scheduleType": "semimonthly",
       "debitStartDate": "09/09/2021",
       "daysOfMonth": [9, 23],
-      "debitFrequency": ""
+      "debitFrequency": "",
+      "hasGracePeriod": true
     },
     {
       "id": "8F547AE1-7CD6-77A0-5EA0-DDE0F63C5735",
@@ -71,16 +78,18 @@
       "scheduleType": "biweekly",
       "debitStartDate": "09/03/2021",
       "daysOfMonth": [],
-      "debitFrequency": "friday"
+      "debitFrequency": "friday",
+      "hasGracePeriod": true
     },
     {
       "id": "4F7B42A8-EC7E-2D03-D75E-A0FC3CC74A11",
       "monthlyPaymentAmount": 823,
       "paymentDueDay": 27,
       "scheduleType": "semimonthly",
-      "debitStartDate": "09/29/2021",
-      "daysOfMonth": [9,29],
-      "debitFrequency": ""
+      "debitStartDate": "09/9/2021",
+      "daysOfMonth": [9,20],
+      "debitFrequency": "",
+      "hasGracePeriod": false
     },
     {
       "id": "1DA3BDF6-576A-C355-6545-D74F55A3B37E",
@@ -89,7 +98,8 @@
       "scheduleType": "biweekly",
       "debitStartDate": "08/13/2021",
       "daysOfMonth": [],
-      "debitFrequency": "friday"
+      "debitFrequency": "friday",
+      "hasGracePeriod": true
     },
     {
       "id": "D4496366-81F2-5BB2-0EB8-1F2029D0EC6A",
@@ -98,7 +108,8 @@
       "scheduleType": "semimonthly",
       "debitStartDate": "09/28/2021",
       "daysOfMonth": [9, 28],
-      "debitFrequency": ""
+      "debitFrequency": "",
+      "hasGracePeriod": true
     },
     {
       "id": "326F9C57-FA91-3930-7C21-E4D6B761545B",
@@ -107,7 +118,8 @@
       "scheduleType": "biweekly",
       "debitStartDate": "09/07/2021",
       "daysOfMonth": [],
-      "debitFrequency": "tuesday"
+      "debitFrequency": "tuesday",
+      "hasGracePeriod": true
     },
     {
       "id": "89203316-6C2D-AB8D-4D58-A0369EC4C72D",
@@ -116,7 +128,8 @@
       "scheduleType": "semimonthly",
       "debitStartDate": "06/23/2021",
       "daysOfMonth": [17,23],
-      "debitFrequency": ""
+      "debitFrequency": "",
+      "hasGracePeriod": true
     },
     {
       "id": "FC04F152-9179-4416-6598-C870A6C80F46",
@@ -125,7 +138,8 @@
       "scheduleType": "biweekly",
       "debitStartDate": "07/13/2021",
       "daysOfMonth": [],
-      "debitFrequency": "tuesday"
+      "debitFrequency": "tuesday",
+      "hasGracePeriod": true
     },
     {
       "id": "E7C59691-542D-8ED5-F2D1-9D96098A6578",
@@ -134,7 +148,8 @@
       "scheduleType": "semimonthly",
       "debitStartDate": "06/09/2021",
       "daysOfMonth": [9,23],
-      "debitFrequency": ""
+      "debitFrequency": "",
+      "hasGracePeriod": false
     },
     {
       "id": "BF53CD0D-EB7E-646F-F180-482E003E6A0A",
@@ -143,7 +158,8 @@
       "scheduleType": "biweekly",
       "debitStartDate": "07/12/2021",
       "daysOfMonth": [],
-      "debitFrequency": "monday"
+      "debitFrequency": "monday",
+      "hasGracePeriod": true
     },
     {
       "id": "6A7E8E01-3217-4D32-D7CA-A29D0DCDB611",
@@ -152,7 +168,8 @@
       "scheduleType": "semimonthly",
       "debitStartDate": "09/01/2021",
       "daysOfMonth": [1,13],
-      "debitFrequency": ""
+      "debitFrequency": "",
+      "hasGracePeriod": true
     },
     {
       "id": "3F18B9FB-1AA0-D95F-7E75-B5102F7A7EF7",
@@ -161,16 +178,18 @@
       "scheduleType": "biweekly",
       "debitStartDate": "06/07/2021",
       "daysOfMonth": [],
-      "debitFrequency": "monday"
+      "debitFrequency": "monday",
+      "hasGracePeriod": true
     },
     {
       "id": "C3F03B1E-1DDA-310B-092B-6036EFBE6477",
       "monthlyPaymentAmount": 903,
-      "paymentDueDay": 15,
+      "paymentDueDay": 28,
       "scheduleType": "semimonthly",
-      "debitStartDate": "06/08/2021",
-      "daysOfMonth": [8,22],
-      "debitFrequency": ""
+      "debitStartDate": "06/01/2021",
+      "daysOfMonth": [1,14],
+      "debitFrequency": "",
+      "hasGracePeriod": false
     },
     {
       "id": "7B70C36F-8CE7-9F6B-1B25-91AFE40E73F3",
@@ -179,7 +198,8 @@
       "scheduleType": "biweekly",
       "debitStartDate": "05/11/2021",
       "daysOfMonth": [],
-      "debitFrequency": "tuesday"
+      "debitFrequency": "tuesday",
+      "hasGracePeriod": true
     },
     {
       "id": "DAC4E893-CA4A-AA37-FE07-0B4A4F59D1DC",
@@ -188,7 +208,8 @@
       "scheduleType": "semimonthly",
       "debitStartDate": "08/11/2021",
       "daysOfMonth": [11,24],
-      "debitFrequency": ""
+      "debitFrequency": "",
+      "hasGracePeriod": true
     },
     {
       "id": "A3FBD42F-CB91-5E82-A8E4-69B485C01BEB",
@@ -197,7 +218,8 @@
       "scheduleType": "biweekly",
       "debitStartDate": "06/22/2021",
       "daysOfMonth": [],
-      "debitFrequency": "tuesday"
+      "debitFrequency": "tuesday",
+      "hasGracePeriod": true
     }
   ]
 }
