@@ -7,9 +7,9 @@
       "monthlyPaymentAmount": 740,
       "paymentDueDay": 28,
       "scheduleType": "biweekly",
-      "debitStartDate": "05/04/2021",
+      "debitStartDate": "2021-05-04",
       "daysOfMonth": [],
-      "debitFrequency": "tuesday"
+      "debitDayOfWeek": "tuesday"
     },
     {
       "lenderName": "Keralis Lending",
@@ -17,9 +17,9 @@
       "monthlyPaymentAmount": 725,
       "paymentDueDay": 30,
       "scheduleType": "semimonthly",
-      "debitStartDate": "06/04/2021",
+      "debitStartDate": "2021-06-04",
       "daysOfMonth": [4, 15],
-      "debitFrequency": ""
+      "debitDayOfWeek": ""
     },
     {
       "lenderName": "Scar Holdings",
@@ -27,9 +27,9 @@
       "monthlyPaymentAmount": 640,
       "paymentDueDay": 31,
       "scheduleType": "biweekly",
-      "debitStartDate": "05/03/2021",
+      "debitStartDate": "2021-05-03",
       "daysOfMonth": [],
-      "debitFrequency": "monday"
+      "debitDayOfWeek": "monday"
     },
     {
       "lenderName": "Bdubs Union",
@@ -37,9 +37,9 @@
       "monthlyPaymentAmount": 470,
       "paymentDueDay": 20,
       "scheduleType": "semimonthly",
-      "debitStartDate": "07/01/2021",
+      "debitStartDate": "2021-07-01",
       "daysOfMonth": [1, 15],
-      "debitFrequency": ""
+      "debitDayOfWeek": ""
     },
     {
       "lenderName": "False Capital",
@@ -47,9 +47,9 @@
       "monthlyPaymentAmount": 470,
       "paymentDueDay": 19,
       "scheduleType": "biweekly",
-      "debitStartDate": "07/02/2021",
+      "debitStartDate": "2021-07-02",
       "daysOfMonth": [],
-      "debitFrequency": "friday"
+      "debitDayOfWeek": "friday"
     },
     {
       "lenderName": "Grian Trust",
@@ -57,9 +57,9 @@
       "monthlyPaymentAmount": 977,
       "paymentDueDay": 1,
       "scheduleType": "semimonthly",
-      "debitStartDate": "09/01/2021",
+      "debitStartDate": "2021-09-01",
       "daysOfMonth": [1, 10],
-      "debitFrequency": ""
+      "debitDayOfWeek": ""
     }
   ]
 }
