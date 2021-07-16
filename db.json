@@ -2,64 +2,64 @@
   "loans":
   [
     {
+      "lenderName": "Mumbo Jumbo, Inc",
       "id": "1FDB3914-D558-508A-3D81-A9DD106235BF",
       "monthlyPaymentAmount": 740,
       "paymentDueDay": 28,
       "scheduleType": "biweekly",
       "debitStartDate": "05/04/2021",
       "daysOfMonth": [],
-      "debitFrequency": "tuesday",
-      "hasGracePeriod": true
+      "debitFrequency": "tuesday"
     },
     {
+      "lenderName": "Keralis Lending",
       "id": "277D7079-514B-2710-693D-BE6F6E377806",
       "monthlyPaymentAmount": 725,
       "paymentDueDay": 30,
       "scheduleType": "semimonthly",
       "debitStartDate": "06/04/2021",
       "daysOfMonth": [4, 15],
-      "debitFrequency": "",
-      "hasGracePeriod": true
+      "debitFrequency": ""
     },
     {
+      "lenderName": "Scar Holdings",
       "id": "377D7079-514B-2710-693D-BE6F6E377806",
       "monthlyPaymentAmount": 640,
       "paymentDueDay": 31,
       "scheduleType": "biweekly",
       "debitStartDate": "05/03/2021",
       "daysOfMonth": [],
-      "debitFrequency": "monday",
-      "hasGracePeriod": true
+      "debitFrequency": "monday"
     },
     {
+      "lenderName": "Bdubs Union",
       "id": "42DC77B2-9639-361C-291C-C7F2D3B04509",
       "monthlyPaymentAmount": 470,
       "paymentDueDay": 20,
       "scheduleType": "semimonthly",
       "debitStartDate": "07/01/2021",
       "daysOfMonth": [1, 15],
-      "debitFrequency": "",
-      "hasGracePeriod": true
+      "debitFrequency": ""
     },
     {
+      "lenderName": "False Capital",
       "id": "5E0F0929-8DC4-C744-0D64-5201E5479243",
       "monthlyPaymentAmount": 470,
       "paymentDueDay": 19,
       "scheduleType": "biweekly",
       "debitStartDate": "07/02/2021",
       "daysOfMonth": [],
-      "debitFrequency": "friday",
-      "hasGracePeriod": false
+      "debitFrequency": "friday"
     },
     {
+      "lenderName": "Grian Trust",
       "id": "6881BC08-659C-F653-D92E-FFB0FC430F38",
       "monthlyPaymentAmount": 977,
       "paymentDueDay": 1,
       "scheduleType": "semimonthly",
       "debitStartDate": "09/01/2021",
       "daysOfMonth": [1, 10],
-      "debitFrequency": "",
-      "hasGracePeriod": true
+      "debitFrequency": ""
     }
   ]
 }
